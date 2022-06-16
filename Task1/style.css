@@ -1,0 +1,46 @@
+.heading{
+                         text-align: center;
+}
+.form-control{
+                         width: 90%;
+                         height: 25rem;
+                         position: relative;
+                         left: 3rem;
+}
+
+.form-group{
+                    position: relative;
+                    left: 40rem;
+                    top: 4rem;
+                    justify-self: flex-end;
+                 
+
+}
+.image-form{
+                         width: 1rem;
+                         position: relative;
+                         bottom: 17rem;
+                         
+}
+.form-head{
+                         height: 40rem;
+}
+.form-group input {
+                         width: 20rem;
+                         text-align: center;
+                         
+                     
+                         margin: 8px 0px;
+                         display: inline-block;
+                         box-sizing: border-box;
+                         background-color: black;
+                         color: white;
+                         width: 20rem;
+                         height: 2rem;
+                         
+                       
+}
+#button{
+                         color:white;
+                         background-color:black;
+}
